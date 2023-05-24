@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Caveat:wght@400;500;600;700&family=Condiment&family=Lobster&family=Philosopher:ital@1&family=Ubuntu+Condensed&display=swap');
+
+/* font-family: 'Bigelow Rules', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Condiment', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif; */
+
+
+
+:root{
+
+
+    --logo_color: #fff;
+    --color1:red;
+    --color2:blue;
+}
+
+
+/* font_size */
+
+
+:root{
+
+    --small_font:16px;
+    --ligo_size:40px;
+}
+
+
+/* font_style */
+
+
+:root{
+
+--logo_style:'Caveat', cursive;
+
+}
